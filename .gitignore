@@ -1,2 +1,6 @@
 Renders/
 X-Plane/**/build/
+
+
+.DS_Store
+
